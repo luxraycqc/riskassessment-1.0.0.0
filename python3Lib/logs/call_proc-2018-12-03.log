@@ -1,0 +1,58 @@
+2018-12-03 11:54:20,168 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 11:54:41,645 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 11:54:41,700 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 11:54:41,705 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 12:56:40,311 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 12:56:40,342 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 12:56:40,348 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 12:57:43,641 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 12:57:43,682 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 12:57:43,685 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 17:48:31,485 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 17:48:31,510 - db_tools.py- call_proc - INFO - (1318, 'Incorrect number of arguments for PROCEDURE test.proc_app_firm_info_dsj; expected 7, got 6')
+2018-12-03 17:48:31,511 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 17:51:01,617 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 17:51:01,643 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 17:51:01,645 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 17:51:53,305 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 17:51:53,371 - db_tools.py- call_proc - INFO - Successfully called proc_app_sell_invoice_statistics_cjq
+2018-12-03 17:51:53,442 - db_tools.py- call_proc - INFO - Successfully called proc_app_main_product_qxl
+2018-12-03 17:51:53,449 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 17:51:53,457 - db_tools.py- call_proc - INFO - Successfully called proc_app_executive_info_dsj
+2018-12-03 17:51:53,470 - db_tools.py- call_proc - INFO - Successfully called proc_app_shareholder_info_dsj
+2018-12-03 17:51:53,472 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 18:02:26,351 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 18:02:26,412 - db_tools.py- call_proc - INFO - Successfully called proc_app_sell_invoice_statistics_cjq
+2018-12-03 18:02:26,558 - db_tools.py- call_proc - INFO - Successfully called proc_app_main_product_qxl
+2018-12-03 18:02:26,642 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 18:02:26,701 - db_tools.py- call_proc - INFO - Successfully called proc_app_executive_info_dsj
+2018-12-03 18:02:26,710 - db_tools.py- call_proc - INFO - Successfully called proc_app_shareholder_info_dsj
+2018-12-03 18:02:26,727 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 18:02:48,560 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 18:02:48,610 - db_tools.py- call_proc - INFO - Successfully called proc_app_sell_invoice_statistics_cjq
+2018-12-03 18:02:48,639 - db_tools.py- call_proc - INFO - Successfully called proc_app_main_product_qxl
+2018-12-03 18:02:48,650 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 18:02:48,657 - db_tools.py- call_proc - INFO - Successfully called proc_app_executive_info_dsj
+2018-12-03 18:02:48,673 - db_tools.py- call_proc - INFO - Successfully called proc_app_shareholder_info_dsj
+2018-12-03 18:02:48,682 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 18:31:45,186 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 18:31:45,252 - db_tools.py- call_proc - INFO - Successfully called proc_app_sell_invoice_statistics_cjq
+2018-12-03 18:31:45,279 - db_tools.py- call_proc - INFO - Successfully called proc_app_main_product_qxl
+2018-12-03 18:31:45,293 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 18:31:45,304 - db_tools.py- call_proc - INFO - Successfully called proc_app_executive_info_dsj
+2018-12-03 18:31:45,317 - db_tools.py- call_proc - INFO - Successfully called proc_app_shareholder_info_dsj
+2018-12-03 18:31:45,330 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 18:38:32,573 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 18:38:32,630 - db_tools.py- call_proc - INFO - Successfully called proc_app_sell_invoice_statistics_cjq
+2018-12-03 18:38:32,654 - db_tools.py- call_proc - INFO - Successfully called proc_app_main_product_qxl
+2018-12-03 18:38:32,666 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 18:38:32,676 - db_tools.py- call_proc - INFO - Successfully called proc_app_executive_info_dsj
+2018-12-03 18:38:32,692 - db_tools.py- call_proc - INFO - Successfully called proc_app_shareholder_info_dsj
+2018-12-03 18:38:32,701 - db_tools.py- call_proc - INFO - Finish!
+2018-12-03 18:42:35,318 - db_tools.py- call_proc - INFO - Start to call procedure......
+2018-12-03 18:42:35,390 - db_tools.py- call_proc - INFO - Successfully called proc_app_sell_invoice_statistics_cjq
+2018-12-03 18:42:35,426 - db_tools.py- call_proc - INFO - Successfully called proc_app_main_product_qxl
+2018-12-03 18:42:35,445 - db_tools.py- call_proc - INFO - Successfully called proc_app_firm_info_dsj
+2018-12-03 18:42:35,455 - db_tools.py- call_proc - INFO - Successfully called proc_app_executive_info_dsj
+2018-12-03 18:42:35,471 - db_tools.py- call_proc - INFO - Successfully called proc_app_shareholder_info_dsj
+2018-12-03 18:42:35,484 - db_tools.py- call_proc - INFO - Finish!
