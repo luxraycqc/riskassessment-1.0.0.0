@@ -10,7 +10,7 @@ import numpy as np
 def Judge_taxData_level(tmp_data,apply_credit_limit):
     flag = False
     pass_type = 0
-    months_data = tmp_data.iloc[-2:, 0:12].values[tmp_data.iloc[-2:, 0:12].values > 0]
+    months_data = tmp_data.iloc[:, 0:12].values[tmp_data.iloc[:, 0:12].values > 0]
     months_len = len(months_data)
 
     if months_len >= 18:
