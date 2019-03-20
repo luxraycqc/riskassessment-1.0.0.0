@@ -1,0 +1,13 @@
+
+/**  
+* @Description: TODO(用一句话描述该文件做什么)
+* @author markzgwu
+* @date 2018年7月12日
+* @version V1.0  
+*/
+
+/**
+ * @author markzgwu
+ *
+ */
+package cn.net.aichain.edge.ms.security.idm;
